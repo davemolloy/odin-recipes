@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipes {
+
+
+}
+
+
+.description {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.ingredients {
+
+
+}
+
+
+.steps {
+
+
+}
+
+p, ul, ol {
+    max-width: 600px;
+
+}
